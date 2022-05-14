@@ -3,5 +3,5 @@
 ### Week 1 practice files uploading...
 
 # Week 1 files
-#### (Week 1 data files:
+#### (Week 1 data files: new_bike_shop_AB.csv, )
 ### Practical Activity added 13/05/2022 - 1.1.6
