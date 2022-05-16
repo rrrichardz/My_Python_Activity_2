@@ -5,3 +5,5 @@
 # Week 1 files
 #### (Week 1 data files: new_bike_shop_AB.csv, )
 ### Practical Activity added 13/05/2022 - 1.1.6
+### Practical Activity added 15/05/2022 - 1.1.9
+### Practical Activity added 16/05/2022 - 1.1.11
