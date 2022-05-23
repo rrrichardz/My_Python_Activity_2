@@ -14,5 +14,5 @@
 ### Week 1 core practice and demonstrations file added 19/05/2022
 
 # Week 2 files
-#### (Week 2 data files: )
-###
+#### (Week 2 data files: breast_cancer_data.csv, )
+### Practical Activity added 23/05/2022 - 2.1.7
