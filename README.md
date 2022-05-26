@@ -2,6 +2,7 @@
 # Uploaded core practice and playabout files (Jupyter Notebook and Python files) - General demonstration and practice/examples on Python
 ### Week 1 practice files uploading... (in Week 1 folder)
 ### Week 2 practice files fully uploaded (in Week 2 folder)
+### Week 3 practice files uploading... (in Week 3 folder)
 
 # Week 1 files
 #### (Week 1 data files: new_bike_shop_AB.csv, Ecommerce_data.csv, loyalty_club.csv, ab_dada.csv, house_prices.csv, salary_Data.csv, test.csv)
