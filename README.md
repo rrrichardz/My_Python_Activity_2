@@ -28,3 +28,5 @@
 ### Practical Activity added 31/05/2022 - 3.1.10
 ### Practical Activity added 01/06/2022 - 3.2.5
 ### Practical Activity added 01/06/2022 - 3.2.8
+
+### Week 3 sub practice and demonstration file added 06/06/2022 - Pre-processing survey data with NLP library
