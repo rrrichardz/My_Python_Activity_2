@@ -2,7 +2,8 @@
 # Uploaded core practice and playabout files (Jupyter Notebook and Python files) - General demonstration and practice/examples on Python
 ### Week 1 practice files uploading... (in Week 1 folder)
 ### Week 2 practice files fully uploaded (in Week 2 folder)
-### Week 3 practice files uploading... (in Week 3 folder)
+### Week 3 practice files fully uploaded (in Week 3 folder)
+### Week 4 practice files uploading... (in Week 4 folder)
 
 # Week 1 files
 #### (Week 1 data files: new_bike_shop_AB.csv, Ecommerce_data.csv, loyalty_club.csv, ab_dada.csv, house_prices.csv, salary_Data.csv, test.csv)
@@ -24,9 +25,13 @@
 ### Week 2 core practice and demonstrations file added 26/05/2022
 
 # Week 3 files
-#### (Week 3 data files: Vision_Zero_Safety.csv, )
+#### (Week 3 data files: Vision_Zero_Safety.csv)
 ### Practical Activity added 31/05/2022 - 3.1.10
 ### Practical Activity added 01/06/2022 - 3.2.5
 ### Practical Activity added 01/06/2022 - 3.2.8
-
+### Week 3 core practive and demonstrations file added 06/06/2022
 ### Week 3 sub practice and demonstration file added 06/06/2022 - Pre-processing survey data with NLP library
+
+# Week 4 files
+#### (Week 4 data files:)
+###
