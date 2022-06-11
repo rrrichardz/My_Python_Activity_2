@@ -1,6 +1,6 @@
 # My_Python_Activity_2
 # Uploaded core practice and playabout files (Jupyter Notebook and Python files) - General demonstration and practice/examples on Python
-### Week 1 practice files uploading... (in Week 1 folder)
+### Week 1 practice files fully uploaded (in Week 1 folder)
 ### Week 2 practice files fully uploaded (in Week 2 folder)
 ### Week 3 practice files fully uploaded (in Week 3 folder)
 ### Week 4 practice files uploading... (in Week 4 folder)
