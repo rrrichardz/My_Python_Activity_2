@@ -33,6 +33,7 @@
 ### Week 3 sub practice and demonstration file added 06/06/2022 - Pre-processing survey data with NLP library
 
 # Week 4 files
-#### (Week 4 data files: bike_details.csv, )
+#### (Week 4 data files: bike_details.csv, wage.csv, )
 ### Practical Activity added 15/06/2022 - 4.1.8
 ### Practical Activity added 15/06/2022 - 4.2.3
+### Practical Activity added 17/06/2022 - 4.2.7
