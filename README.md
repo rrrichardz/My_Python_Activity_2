@@ -29,11 +29,16 @@
 ### Practical Activity added 31/05/2022 - 3.1.10
 ### Practical Activity added 01/06/2022 - 3.2.5
 ### Practical Activity added 01/06/2022 - 3.2.8
-### Week 3 core practive and demonstrations file added 06/06/2022
+### Week 3 core practice and demonstrations file added 06/06/2022
 ### Week 3 sub practice and demonstration file added 06/06/2022 - Pre-processing survey data with NLP library
 
 # Week 4 files
-#### (Week 4 data files: bike_details.csv, wage.csv, )
+#### (Week 4 data files: bike_details.csv, wage.csv, wages_demo.csv, Wages_clean.csv)
 ### Practical Activity added 15/06/2022 - 4.1.8
 ### Practical Activity added 15/06/2022 - 4.2.3
 ### Practical Activity added 17/06/2022 - 4.2.7
+### Core and all sub practice and demonstration files added 20/06/2022
+
+# Week 5 files
+#### (Week 5 data files: )
+###
