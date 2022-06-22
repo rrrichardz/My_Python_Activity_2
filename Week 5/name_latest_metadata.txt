@@ -1,0 +1,8 @@
+Metadata of names_latest
+
+Id - unique identifier of person
+Name - name of person
+Year - year of birth
+Gender - F for female and M for male
+State - state of birth
+Count - number of babies born with that name in that year
