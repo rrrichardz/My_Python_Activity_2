@@ -4,7 +4,8 @@
 ### Week 2 practice files fully uploaded (in Week 2 folder)
 ### Week 3 practice files fully uploaded (in Week 3 folder)
 ### Week 4 practice files fully uploaded (in Week 4 folder)
-### Week 5 practice files uploading... (in Week 5 folder)
+### Week 5 practice files fully uploaded (in Week 5 folder)
+### Week 6 practice files uploading... (in Week 6 folder)
 
 # Week 1 files
 #### (Week 1 data files: new_bike_shop_AB.csv, Ecommerce_data.csv, loyalty_club.csv, ab_dada.csv, house_prices.csv, salary_Data.csv, test.csv)
@@ -47,4 +48,8 @@
 ### Practical Activity added 24/06/2022 - 5.2.3
 ### Practical Activity added 26/06/2022 - 5.2.6
 ### Practical Activity added 26/06/2022 - 5.2.9
-### Week 4 core and all sub practice and demonstration files added 26/06/2022
+### Week 5 core and all sub practice and demonstration files added 26/06/2022
+
+# Week 6 files
+#### (Week 6 data files: )
+###
