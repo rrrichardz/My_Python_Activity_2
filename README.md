@@ -45,3 +45,4 @@
 ### Practical Activity added 22/06/2022 - 5.1.5
 ### Practical Activity added 22/06/2022 - 5.1.7
 ### Practical Activity added 24/06/2022 - 5.2.3
+### Practical Activity added 26/06/2022 - 5.2.6
