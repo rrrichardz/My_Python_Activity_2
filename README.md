@@ -51,5 +51,6 @@
 ### Week 5 core and all sub practice and demonstration files added 26/06/2022
 
 # Week 6 files
-#### (Week 6 data files: )
+#### (Week 6 data files: cpi.csv, eth_exchange_data.csv, FB_Ecomm.csv, FRED.csv, Wage.csv, Wine.csv, Wine_Test.csv)
 ### Practical Activity added 28/06/2022 - 6.1.5
+###
